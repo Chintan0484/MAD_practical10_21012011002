@@ -51,7 +51,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         mMap.addMarker(MarkerOptions().position(sydney)
             .title(title)
             .snippet(title)
-            .icon(BitmapDescriptorFactory.fromResource(R.drawable.image))
+            .icon(BitmapDescriptorFactory.fromResource(R.drawable.img))
         )
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney,16.0f))
     }
