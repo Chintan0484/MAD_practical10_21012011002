@@ -34,8 +34,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
+                    app:layout_constraintEnd_toStartOf="@+id/btnLocation"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:layout_constraintStart_toEndOf="@id/btnPerson">
+                    app:layout_constraintStart_toEndOf="@id/btnPerson"
+                    app:layout_constraintBottom_toBottomOf="parent">
 
                     <TextView
                         android:id="@+id/name"
@@ -53,13 +55,13 @@
 
                     <TextView
                         android:id="@+id/emailid"
-                        android:layout_width="wrap_content"
+                        android:layout_width="200dp"
                         android:layout_height="wrap_content"
                         android:text="yeseniayeng12@gmail.com" />
 
                     <TextView
                         android:id="@+id/address"
-                        android:layout_width="wrap_content"
+                        android:layout_width="200dp"
                         android:layout_height="wrap_content"
                         android:text="16,nearby ram hospital" />
                 </LinearLayout>
