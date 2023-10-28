@@ -19,7 +19,7 @@ class PersonAdapter (context: Context, val PersonArray:ArrayList<Person>):ArrayA
         view.findViewById<TextView>(R.id.emailid).text = PersonArray[position].emailId
         view.findViewById<TextView>(R.id.address).text = PersonArray[position].address
         view.findViewById<MaterialButton>(R.id.btnLocation).setOnClickListener {
-            Intent(context, MapsActivity::class.java).putExtra("object", PersonArray[position])
+            Intent(context, MapsActivity::class.java).putExtra("Object", PersonArray[position])
                 .apply { context.startActivity(this) }}
             return view
 
