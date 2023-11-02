@@ -22,6 +22,6 @@ Create Class HttpRequest for communicating with Web URL
 
 ![image](https://github.com/Chintan0484/MAD_practical10_21012011002/assets/98694412/196dd11b-02e4-47e0-befb-4520738a8019)
 
-![image](https://github.com/Chintan0484/MAD_practical10_21012011002/assets/98694412/768c3505-0d94-42a9-b204-25ca4093c971)
+![image](https://github.com/Chintan0484/MAD_practical10_21012011002/assets/98694412/7453a1a2-62db-4042-8198-ab320640ed11)
 
-![image](https://github.com/Chintan0484/MAD_practical10_21012011002/assets/98694412/a4f4c70b-66e2-468b-b54e-f2fe730b52d0)
+![image](https://github.com/Chintan0484/MAD_practical10_21012011002/assets/98694412/31fcbc50-bbcc-4ed8-8e47-7baa19d708f2)
